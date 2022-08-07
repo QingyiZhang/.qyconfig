@@ -18,6 +18,8 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': 
 Plug 'dhruvasagar/vim-table-mode'
 " 列表自动插件
 Plug 'dkarter/bullets.vim'
+" wiki插件
+Plug 'vimwiki/vimwiki'
 " 卸载/禁用~/.vimrc里的默认插件
 " UnPlug 'chxuan/prepare-code'
 
