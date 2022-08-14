@@ -23,6 +23,8 @@ Plug 'vimwiki/vimwiki'
 " 代码片段
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
+" vim c++ 调试插件
+Plug 'puremourning/vimspector'
 " 卸载/禁用~/.vimrc里的默认插件
 " UnPlug 'chxuan/prepare-code'
 
