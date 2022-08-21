@@ -25,6 +25,8 @@ Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 " vim c++ 调试插件
 Plug 'puremourning/vimspector'
-" 卸载/禁用~/.vimrc里的默认插件
+" vim 多光标
+Plug 'mg979/vim-visual-multi'
+"卸载/禁用~/.vimrc里的默认插件
 " UnPlug 'chxuan/prepare-code'
 
