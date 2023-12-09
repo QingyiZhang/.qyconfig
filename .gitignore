@@ -1,7 +1,7 @@
 #! $HOME/.gitignore
 
 #----[ ignore all ] -----
-*
+#*
 #---[ consider list ]---
 !*.conf
 !*.oh-my-zsh
